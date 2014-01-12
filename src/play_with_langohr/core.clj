@@ -1,6 +1,9 @@
-(ns play-with-langohr.core)
+(ns play-with-langohr.core
+  (require [langohr.core :as l]))
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+l/*default-config*
+;; => {:username "guest"
+;;     :password "guest"
+;;     :vhost "/"
+;;     :host "localhost"
+;;     :port 5672}
