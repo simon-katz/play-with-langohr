@@ -4,7 +4,7 @@
 ;;;; ___________________________________________________________________________
 ;;;; Clojure workflow.
 ;;;; See:
-;;;; - http://nomistech.blogspot.co.uk/2013/06/stuart-sierras-clojure-development_18.html
+;;;; - http://blogish.nomistech.com/clojure/clojure-workflow-demo/
 ;;;; - http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded
 
 ;; (defonce the-system
